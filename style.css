@@ -1,7 +1,7 @@
 .one{
 background-color:black;
 
-width: 95%;
+width: 90%;
 height: 300px;
 color: blueviolet;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -12,7 +12,7 @@ text-align: center;
 .imges{
     display: flex;
     justify-content: space-between;
-    width: 100%;
+ 
 }
 
 .imges2:hover a{
