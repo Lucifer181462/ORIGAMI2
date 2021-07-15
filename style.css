@@ -1,0 +1,32 @@
+.one{
+background-color:black;
+
+width: 95%;
+height: 300px;
+color: blueviolet;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+
+}
+
+.imges{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.imges2:hover a{
+    opacity: 0.55;
+}
+
+.imges:hover img{
+    opacity: 0.35;
+}
+.imges2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imge2 a{
+    opacity: 0;
+}
